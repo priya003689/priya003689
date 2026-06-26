@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Final Year Computer Science Student<br>☕ Java | ⚛️ React.js | 🐍 Python<br>🧠 Machine Learning & DSA<br>🚀 Building Real-World Projects<br>📈 Open to Software Engineering Opportunities
+👨‍💻 Final Year Computer Science Student<br>☕ Java | ⚛️ React.js |💻 JavaScript | HTML | CSS| 🐍 Python| 🤖 Machine Learning<br>🧠 Machine Learning & DSA<br>🚀 Building Real-World Projects<br>📈 Open to Software Engineering Opportunities
 
 
 ## 🌐 Socials:
